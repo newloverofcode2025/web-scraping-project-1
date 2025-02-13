@@ -73,7 +73,7 @@ HTML Parsing: Parsing HTML content using BeautifulSoup.
 🤝 **Let's Connect!**
 I'm always open to new opportunities, collaborations, and discussions. If you'd like to connect, feel free to reach out through the following channels:
 Email: abhishekninja@yahoo.com
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/abhishekninja
 Portfolio: yourportfolio.com
 
 🎉 **Fun Fact**
